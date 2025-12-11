@@ -1,0 +1,62 @@
+﻿body {
+    margin: 0;
+    font-family: system-ui, Arial, sans-serif;
+    direction: rtl;
+    background: #0b1020;
+    color: #fff;
+}
+
+#header {
+    padding: 10px 20px;
+    background: #111629;
+    border-bottom: 1px solid #222a3d;
+}
+
+    #header h1 {
+        margin: 0;
+        font-size: 20px;
+        color: #f4d36a;
+    }
+
+#main {
+    display: flex;
+    height: calc(100vh - 48px);
+}
+
+/* الخريطة */
+#map {
+    flex: 1;
+}
+
+/* اللوحة الجانبية */
+#side-panel {
+    width: 320px;
+    background: #101527;
+    border-right: 1px solid #222a3d;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+    #side-panel h2 {
+        font-size: 14px;
+        margin: 10px 0 5px;
+        color: #f4d36a;
+    }
+
+    #side-panel ul {
+        list-style: none;
+        margin: 0 0 10px;
+        padding: 0;
+        font-size: 12px;
+    }
+
+    #side-panel li {
+        padding: 4px 6px;
+        border-bottom: 1px solid #222a3d;
+    }
+
+.prediction-icon {
+    font-size: 18px;
+    text-align: center;
+    line-height: 18px;
+}
