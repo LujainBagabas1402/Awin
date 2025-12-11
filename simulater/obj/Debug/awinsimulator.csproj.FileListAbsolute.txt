@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\bin\Debug\awinsimulator.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\obj\Debug\awinsimulator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\bin\Debug\awinsimulator.exe
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\bin\Debug\awinsimulator.pdb
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\obj\Debug\awinsimulator.exe
+c:\users\admin\documents\visual studio 2012\Projects\awinsimulator\awinsimulator\obj\Debug\awinsimulator.pdb
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\bin\Debug\awinsimulator.exe.config
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\bin\Debug\awinsimulator.exe
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\bin\Debug\awinsimulator.pdb
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\obj\Debug\awinsimulator.csproj.AssemblyReference.cache
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\obj\Debug\awinsimulator.csproj.CoreCompileInputs.cache
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\obj\Debug\awinsimulator.exe
+C:\Users\LHbag\OneDrive\Documents\awinsimulator\awinsimulator\obj\Debug\awinsimulator.pdb
